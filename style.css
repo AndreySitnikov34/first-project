@@ -35,7 +35,7 @@
   max-height: 756px;
   display: flex;
   align-items: center;
-  background-color: rgb(230, 230, 230);
+  background-color: #f2f2f2;
   position: relative;
   border: 1px solid red;
   /* выше установили ограничения для секции */
@@ -67,8 +67,8 @@ h1 {
   border: 1px solid red;
 }
 .header__main-illustration {
-  background-image: url(https://code.s3.yandex.net/web-code/how-to-study.png);
-  background-repeat: no-repeat;
+  background-image: url(./images/two_again.png);
+  background-size: cover;
   width: 765px;
   height: 608px;
   border: 1px solid red;
@@ -81,7 +81,7 @@ h1 {
 .header__square-pic {
   height: 568px;
   width: 568px;
-  background-color: rgb(97, 118, 238);
+  background-color: #2f80ed;
   position: absolute;
   top: 64px;
   right: 0;
@@ -89,7 +89,7 @@ h1 {
 }
 
 .header__link {
-  color: blue;
+  color: #2f80ed;
   border: 1px solid red;
 }
 
@@ -279,7 +279,7 @@ h1 {
 /* Секция kaufman */
 
 .kaufman {
-  background-color: black;
+  background-color: #1f1f1f;
   color: white;
 }
 
@@ -362,7 +362,7 @@ h1 {
 /* Секция footer  */
 
 .footer {
-  background-color: black;
+  background-color: #1f1f1f;
   color: white;
   border: 1px solid red;
 }
