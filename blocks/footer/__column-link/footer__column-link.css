@@ -2,17 +2,11 @@
   list-style-type: none;
   padding-left: 0;
   display: flex;
-  /* flex-direction: column; */
-  justify-content: space-evenly;
-  margin-top: 20px;
-  /* border: 1px solid red; */
+  margin-top: 10px;
+  color: #fff;
+  text-decoration: none;
 }
 
 .footer__column-link:last-child {
   /* margin-bottom: 20px; */
-}
-
-.footer__column-link_style {
-  color: #fff;
-  text-decoration: none;
 }
