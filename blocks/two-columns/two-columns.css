@@ -6,9 +6,4 @@
   align-items: flex-start;
   justify-content: space-around;
   margin: 0 auto;
-  /* border: 1px solid red; */
-}
-p {
-  margin: 0;
-  padding: 0;
 }
