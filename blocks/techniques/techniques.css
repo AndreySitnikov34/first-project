@@ -4,5 +4,5 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  margin: 100px auto;
+  margin: 100px auto 0;
 }
